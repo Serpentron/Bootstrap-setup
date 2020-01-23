@@ -1,0 +1,22 @@
+@import 'bootstrap/bootstrap';
+
+/* eigen voorkeuren bootstrap; zie map variables*/
+
+
+
+
+body {
+    background-color: pink;
+}
+
+.container {
+    border: 1px solid red;
+}
+
+.col-sm {
+    background-color: green;
+}
+
+.col-sm-6 {
+    background-color: blue;
+}
